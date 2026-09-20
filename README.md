@@ -8,6 +8,7 @@ To implement a Zener Voltage regulator and to obtain the output for variable loa
 4. Bread Board
 5. DC Ammeter (0-200)mA
 6. DC Voltmeter (0-30)V
+
 ## CIRCUIT DIAGRAM:
 
 ## PROCEDURE:
